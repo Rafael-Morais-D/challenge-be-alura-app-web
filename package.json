@@ -1,0 +1,24 @@
+{
+  "name": "challenge-be-alura-app-web",
+  "version": "1.0.0",
+  "description": "Challenge Backend da Alura para criar aplicação web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael-Morais-D/challenge-be-alura-app-web.git"
+  },
+  "keywords": [
+    "alura",
+    "challenge",
+    "backend"
+  ],
+  "author": "Rafael Morais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafael-Morais-D/challenge-be-alura-app-web/issues"
+  },
+  "homepage": "https://github.com/Rafael-Morais-D/challenge-be-alura-app-web#readme"
+}
